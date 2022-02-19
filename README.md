@@ -208,10 +208,7 @@ h1{
 ```
 
 ## OUTPUT:
-
 ![screenshot](https://user-images.githubusercontent.com/93427086/149363222-5bca1bad-61bd-4787-9247-ffad9e87b099.png)
 ![validator](https://user-images.githubusercontent.com/93427086/149363241-6ffe7165-9923-495e-9476-f1a0362c359a.png)
-
 ## RESULT:
-
 Thus a website is designed to perform mathematical calculations in the client side.
